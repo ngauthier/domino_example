@@ -1,8 +1,6 @@
 # Domino Example
 
-Example for the gem Domino
-
-http://github.com/ngauthier/domino
+Example for the gem [Domino](http://github.com/ngauthier/domino)
 
 ## Define Dominos
 
