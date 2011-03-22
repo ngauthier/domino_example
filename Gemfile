@@ -10,6 +10,7 @@ gem 'sqlite3'
 group :test do
   gem 'domino'
   gem 'cucumber-rails'
+  gem 'database_cleaner'
 end
 
 # Use unicorn as the web server

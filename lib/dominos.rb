@@ -10,7 +10,7 @@ module Dom
     attribute :title, 'a'
 
     def href
-      node.css('a').first['href']
+      node.find('a')['href']
     end
   end
 end
