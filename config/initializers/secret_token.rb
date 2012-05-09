@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DominoExample::Application.config.secret_token = 'f516d9e4c72221a14fb201fb53311d222610012f52db0accb931feb8e0d16de714a9803bff25c9e2368f7559862ad47523138835824a90a2eecc06b1ee6d3b8f'
+DominoExample::Application.config.secret_token = '98c83a108c411b073932d3b7c91bdb98acfe9205a5be23945adac8fb9290005e58e7637ca99e3ed9d066a48f2ad69ea7d26f3b6505a2aacf2a60dfbea8f7bf7c'
